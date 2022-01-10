@@ -18,7 +18,7 @@ Consiste em uma calculadora que faz as operaçoes e grava o historico de conta
 -JAVASCRIPT
 
 
-# Projeto Hospedado
+# Hospedagem
 https://aslac2020-calculadora-js.netlify.app/
 
 # Autor
